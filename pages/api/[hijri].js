@@ -1,4 +1,4 @@
-import { mausamiyatdata } from "../../../mausamiyatdata";
+import { mausamiyatdata } from "../../mausamiyatdata";
 
 export default function handler(req, res) {
   const { hijri } = req.query;
